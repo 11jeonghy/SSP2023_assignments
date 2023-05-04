@@ -3,6 +3,11 @@
 
 # Project 1 Isolated digit recognition in noisy environments
 
+1. The executable source file: main.ipynb
+2. Written report included: Project1 - Written Report.pdf
+
+
+
 - attached: 
     2. [`proj1_nidr.ipynb`](proj1_nidr.ipynb)
 
